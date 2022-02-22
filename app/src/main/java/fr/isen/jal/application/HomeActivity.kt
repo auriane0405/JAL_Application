@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        setContentView(R.layout.fragment_connection)
+        setContentView(R.layout.activity_connection)
     }
 }
