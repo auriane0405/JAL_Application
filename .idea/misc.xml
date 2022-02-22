@@ -3,15 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/juliette.roure/AndroidStudioProjects/JAL_Application/app/src/main/res/layout/activity_creation.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/juliette.roure/AndroidStudioProjects/JAL_Application/app/src/main/res/layout/activity_home.xml" value="0.12360688956433637" />
-        <entry key="..\:/Users/juliette.roure/AndroidStudioProjects/JAL_Application/app/src/main/res/layout/activity_user.xml" value="0.12360688956433637" />
-        <entry key="..\:/Users/juliette.roure/AndroidStudioProjects/JAL_Application/app/src/main/res/layout/fragment_connection.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/juliette.roure/AndroidStudioProjects/JAL_Application/app/src/main/res/layout/fragment_creation.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/juliette.roure/AndroidStudioProjects/JAL_Application/app/src/main/res/layout/fragment_login.xml" value="0.12360688956433637" />
-        <entry key="..\:/Users/juliette.roure/AndroidStudioProjects/JAL_Application/app/src/main/res/layout/fragment_register.xml" value="0.12360688956433637" />
-        <entry key="..\:/Users/juliette.roure/AndroidStudioProjects/JAL_Application/app/src/main/res/layout/menu_connection.xml" value="0.12360688956433637" />
-        <entry key="..\:/Users/juliette.roure/AndroidStudioProjects/JAL_Application/app/src/main/res/layout/menu_inscription.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/activity_connection.xml" value="0.25" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/activity_creation.xml" value="0.25" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/activity_home.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/activity_user.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/fragment_connection.xml" value="0.25" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/fragment_login.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/fragment_register.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/menu_connection.xml" value="0.25" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/menu_inscription.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/theii/AndroidStudioProjects/JAL/app/src/main/res/layout/menu_principal.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
