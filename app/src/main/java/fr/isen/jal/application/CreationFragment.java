@@ -6,8 +6,8 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import fr.isen.jal.application.databinding.FragmentRegisterBinding
+import fr.isen.jal.application.databinding.FragmentCreationBinding
 
-class CreationFragment : Fragment() {
-    lateinit var binding : FragmentRegisterBinding
+class CreationFragment {
+
 }
