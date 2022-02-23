@@ -26,11 +26,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4">
 
-        <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/prenom"
+        <EditText
+            android:id="@+id/prenom_inscription"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:hint="Prénom" />
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Prénom" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -42,11 +44,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout8">
 
-        <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/nom"
-            android:layout_width="match_parent"
+        <EditText
+            android:id="@+id/nom_inscription"
+            android:layout_width="361dp"
             android:layout_height="wrap_content"
-            android:hint="Nom" />
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Nom" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -58,11 +62,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout9">
 
-        <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/email"
-            android:layout_width="match_parent"
+        <EditText
+            android:id="@+id/email_inscription"
+            android:layout_width="365dp"
             android:layout_height="wrap_content"
-            android:hint="Email" />
+            android:ems="10"
+            android:inputType="textEmailAddress"
+            android:text="Email" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -74,15 +80,17 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout10">
 
-        <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/Mdp"
-            android:layout_width="match_parent"
+        <EditText
+            android:id="@+id/mdp_inscription"
+            android:layout_width="363dp"
             android:layout_height="wrap_content"
-            android:hint="Mot de passe" />
+            android:ems="10"
+            android:inputType="textPassword"
+            android:text="Mot de passe" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/buttonCreation"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
@@ -92,7 +100,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout11" />
 
     <Button
-        android:id="@+id/button6"
+        android:id="@+id/buttonSeConnecter"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="32dp"
@@ -100,4 +108,5 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
